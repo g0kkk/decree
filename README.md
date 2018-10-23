@@ -4,8 +4,9 @@ The development VM is known as cgc-linux-dev and the corresponding Vagrantfile i
 
 ## Installation ##
 
-Run _vagrant up_ *(name)*
-Run _vagrant ssh_ *(name)*
+1) Run _vagrant up_ *(name)*
+
+2) Run _vagrant ssh_ *(name)*
 
 ### Files ###
 
