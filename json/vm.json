@@ -5,7 +5,7 @@
         {
             "providers": [
                 {
-                    "checksum": "72d5505bbf203beb2ca8edd7aaee260d", 
+                    "checksum": "0844d54ecd3b8b6bbbfebfe6def0be14", 
                     "checksum_type": "md5", 
                     "name": "virtualbox", 
                     "url": "http://archive.darpa.mil/cybergrandchallenge_repo/release-cqe/boxes/cgc-linux-dev.box"
