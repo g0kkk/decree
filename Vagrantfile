@@ -10,7 +10,7 @@ nodes = {
 
 Vagrant.configure(2) do |config|
     config.vm.box = "cgc-linux-dev"
-    config.vm.box_url = 'http://www.zer0xlab.com/scripts/0CTF/vm.json'
+    config.vm.box_url = '' //point it to vm.json location
 
     nodes.each_key do |name|
         config.vm.define "#{name}", primary: nodes[name][:primary] do |node|
